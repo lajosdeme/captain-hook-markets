@@ -1,0 +1,6 @@
+[submodule "captain-oft"]
+	path = captain-oft
+	url = https://github.com/lajosdeme/captain-oft
+[submodule "captain-hook"]
+	path = captain-hook
+	url = https://github.com/lajosdeme/captain-hook
